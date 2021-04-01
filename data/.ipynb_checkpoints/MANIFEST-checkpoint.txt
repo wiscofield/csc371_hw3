@@ -1,0 +1,6 @@
+Breast Invasive Carcinoma
+Kidney Renal Clear Cell Carcinoma
+Lung Adenocarcinoma
+Lung Squamous Cell Carcinoma
+Pancreatic Adenocarcinoma
+Uveal Melanoma
